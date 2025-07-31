@@ -1,1 +1,2 @@
 # GlobalTerrorismDashboard
+Author: Muskan Gupta
